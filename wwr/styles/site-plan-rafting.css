@@ -1,4 +1,4 @@
-@import url('https://fronts.googleapis/com/css2?family=font-name&family=optional-2nd-font-name&display=swap');
+@import url('https://fronts.googleapis/com/css2?family=font-name&family=optional-2nd-font-name&display=swap') ;
 body{
     font-famil: var(--paragraph-font);
     max-width: 960px;
