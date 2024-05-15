@@ -1,25 +1,17 @@
 @import url('https://fronts.googleapis/com/css2?family=font-name&family=optional-2nd-font-name&display=swap') ;
-body{
-    font-famil: var(--paragraph-font);
-    max-width: 960px;
-    padding: 20px;
+body {
+max-width : 960px;
+padding : 20px;
 }
-:root{
-    --primary-color: #xxxxxx;
-    --secondary-color: #xxxxxx;
-    --accent1-color: #xxxxxx;
-    --accent-color: #xxxxxx;
-
-    --heading-font: '_______',serif;
-    --paragraph-font: '_______',serif;
-    
-    --nav-backround-color: #xxxxxx;
-    --nav-link-color: #xxxxxx;
-    --nav-hover-link-color: #xxxxxx;
-    --nav-hover-background-color: #xxxxxx;
-}
-body{
-    f______: var(--paragraph-font);
-    m______: _______;
-    p______; _______;
+:root {
+--primary-color : #xxxxxx;
+--secondary-color : #xxxxxx;
+--accent1-color : #xxxxxx;
+--accent-color : #xxxxxx;
+--heading-font : '_______',serif;
+--paragraph-font : '_______',serif;
+--nav-backround-color : #xxxxxx;
+--nav-link-color : #xxxxxx;
+--nav-hover-link-color : #xxxxxx;
+--nav-hover-background-color : #xxxxxx;
 }
