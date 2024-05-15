@@ -17,7 +17,9 @@ body{
     --nav-link-color: #xxxxxx;
     --nav-hover-link-color: #xxxxxx;
     --nav-hover-background-color: #xxxxxx;
-
-
-
+}
+body{
+    f______: var(--paragraph-font);
+    m______: _______;
+    p______; _______;
 }
