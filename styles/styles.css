@@ -45,6 +45,7 @@ set img{
 main img{
     width: 150px;
     height: auto;
+    float: right;
 
 }
 
@@ -77,10 +78,4 @@ box-sizing: border-box;
 
 aside{
     width: 20em;
-    text-align: center;
-}
-
-main image{
-    /* comment */
-    float: right;
-} 
+    text-align: center;}
