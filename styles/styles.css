@@ -79,3 +79,8 @@ aside{
     width: 20em;
     text-align: center;
 }
+
+main image{
+    /* comment */
+    float: right;
+}
