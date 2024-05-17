@@ -112,4 +112,7 @@ header, .grid, footer{
     margin: 0 auto;
 }
 
+main img{
+    float: right;
+}
 
