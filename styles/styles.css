@@ -65,7 +65,8 @@ aside h2{
 
 }
 
-header, footer {
+header, .grid, footer {
+    
     max-width: 840px;
     margin: 0 auto;
 
@@ -89,4 +90,18 @@ nav a{
     color: #fff; /% shorthand for white %/
 
 }
+.grid{
+    display: grid;
+    align-items: center;
+
+}
+
+main{
+    grid-column: 20rem;
+    position: relative;
+    grid-column: 1/2;
+    grid-row: 1/2;
+    
+}
+
 
