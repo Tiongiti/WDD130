@@ -1,7 +1,8 @@
 @import url('https://fronts.googleapis/com/css2?family=font-name&family=optional-2nd-font-name&display=swap') ;
 body {
-max-width : 960px;
-padding : 20px;
+    font-family: var(--paragraph-font);
+    max-width : 960px;
+    padding : 20px;
 }
 :root {
 --primary-color : #xxxxxx;
