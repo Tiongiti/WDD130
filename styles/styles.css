@@ -101,7 +101,7 @@ nav a{
 }
 
 main{
-    grid-column: 20px;
+    grid-column: auto;
     position: relative;
     grid-column: 1/2;
     grid-row: 1/2;
